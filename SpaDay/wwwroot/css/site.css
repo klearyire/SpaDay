@@ -78,18 +78,18 @@ body {
     border: 1px solid rgba(0, 0, 0, 2);
 }
 
-#red {
+.red {
     background: red;
 }
 
-#purple {
+.purple {
     background: purple;
 }
 
-#blue {
+.blue {
     background: blue;
 }
 
-#pink {
+.pink {
     background: pink;
 }
